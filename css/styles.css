@@ -1,0 +1,12 @@
+h2.intro {
+color: #FF69B4;
+}
+
+p.intro {
+  font-family: tahoma;
+  width: 90%;
+}
+
+img.intro {
+  border-style: double;
+}
