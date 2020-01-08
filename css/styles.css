@@ -1,12 +1,12 @@
-h2.intro {
+.intro h2 {
 color: #FF69B4;
 }
 
-p.intro {
+.intro p {
   font-family: tahoma;
   width: 90%;
 }
 
-img.intro {
+.intro img {
   border-style: double;
 }
